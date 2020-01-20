@@ -4,4 +4,4 @@
 
 1) reproduce network: Alexnet and other CNN are available in their github repository with the weights of their training, get a reasonable CNN and try to test it with their weights in order to see the accuracy reached on our test dataset.
 
-2)Try to improve accuracies: try to change some layers of the network, training it on a small training set (subset of what they have used) and see how accuracies change and why on the previous test set.
+2) Try to improve accuracies: try to change some layers of the network, training it on a small training set (subset of what they have used) and see how accuracies change and why on the previous test set.
