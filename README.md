@@ -11,3 +11,5 @@ https://colab.research.google.com/drive/1R2MytbnGPSvRa_ksDKHmPOznoNS0SVL8
 
 GITHUB REPOSITORY:
 https://github.com/CSAILVision/places365
+
+TEST DATASET DOWNLOAD: http://download1654.mediafire.com/lvdf85zv1vrg/7ht7sn78q27o9we/im2gps3ktest.zip
