@@ -8,3 +8,6 @@
 
 LINK TO THE PROJECT:
 https://colab.research.google.com/drive/1R2MytbnGPSvRa_ksDKHmPOznoNS0SVL8
+
+GITHUB REPOSITORY:
+https://github.com/CSAILVision/places365
