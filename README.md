@@ -14,10 +14,10 @@ TEST DATASET DOWNLOAD: http://download1654.mediafire.com/lvdf85zv1vrg/7ht7sn78q2
 S2SPHERE LIBRARY AND IMAGES DOWNLOAD: https://colab.research.google.com/drive/1OhHam8NT1mDvySWSpredTq-Ts4bQwauu
 
 LINK TO THE PROJECT (CNN)
-https://colab.research.google.com/drive/1pfI9D8-ctjHnWHaRKvp357rC6tdREAFT
+https://colab.research.google.com/drive/1g3CFWGZ2IcrPdoyE8JXV95pQgWip8EeM
 
 LINK TO THE PROJECT (k-NN)
-https://colab.research.google.com/drive/1a5QTWGRK0_ulNsYG889KBN_AbKbotirq
+https://colab.research.google.com/drive/12U7Spv9e2wwcu5j9woJNBizPIZyWe6OM
 
 TRY IT:
 https://colab.research.google.com/drive/1tYOOXN8tA_ycnenvWGcDDYal7OQ2PRvX
