@@ -18,3 +18,6 @@ https://colab.research.google.com/drive/1pfI9D8-ctjHnWHaRKvp357rC6tdREAFT
 
 LINK TO THE PROJECT (k-NN)
 https://colab.research.google.com/drive/1a5QTWGRK0_ulNsYG889KBN_AbKbotirq
+
+TRY IT:
+https://colab.research.google.com/drive/1tYOOXN8tA_ycnenvWGcDDYal7OQ2PRvX
